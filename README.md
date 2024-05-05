@@ -1,3 +1,3 @@
 # AI-Labs
 
-for my labs i recieved 100% for every lab
+These where for CS310 and involved creating different search algorithms with and without pruning I received 100% for every week.
